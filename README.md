@@ -200,7 +200,9 @@ def main():
 
 # HASIL KODE PEMROGRAMAN
 ![Foto](https://github.com/nanafnan09/Foto/blob/194b9dd5216d6e7589d5707cc8b667c6785ec54f/Opsi%20Tambah%20Data.png)
-![Foto]()
+
+![Foto](https://github.com/nanafnan09/Foto/blob/194b9dd5216d6e7589d5707cc8b667c6785ec54f/Opsi%20Ubah%20Data.png)
+
 ![Foto]()
 ![Foto]()
 ![Foto]()

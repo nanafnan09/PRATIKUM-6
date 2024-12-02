@@ -195,5 +195,7 @@ def main():
             print("Pilihan tidak valid. Silakan coba lagi.")
 ```
 
+# FLOWCHART 
+![Foto](https://github.com/nanafnan09/PRATIKUM-6/blob/b86fda54c1492d3635d57a90e0a73ffaefe07aff/Flowchart%20Pratikum%206.png)
 
  

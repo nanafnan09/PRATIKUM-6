@@ -44,8 +44,7 @@ UTS: 35%
 
 UAS: 35%
 
-```
-python
+```python
 
 def hitung_nilai_akhir(tugas,uts,uas)
 """
@@ -69,8 +68,7 @@ return (tugas * 0.30) + (uts * 0.35) + (uas * 0.35)
 
 Fungsi ini menampilkan menu pilihan kepada pengguna.
 
-```
-python
+```python
 
 def tampilkan menu()
      print("\nMenu Pilihan:")
@@ -84,8 +82,7 @@ def tampilkan menu()
 `tambah_data(data)`
 
 Fungsi ini meminta input dari pengguna untuk menambahkan data mahasiswa baru ke dalam dictionary.
-```
-python
+```python
 
 def tambah_data(data):
       """
@@ -122,8 +119,7 @@ def tambah_data(data):
 
 Fungsi ini memungkinkan pengguna untuk mengubah data mahasiswa yang sudah ada berdasarkan nama.
 
-```
-python
+```python
 def ubah_data(data):
     """
     Mengubah data mahasiswa berdasarkan nama.
@@ -142,8 +138,7 @@ def ubah_data(data):
 `hapus_data`
 
 Fungsi Kode ini ialah untuk menghapus data mahasiswa
-```
-python
+```python
 def hapus_data(data):
     """
     Menghapus data mahasiswa berdasarkan nama.
@@ -156,8 +151,7 @@ def hapus_data(data):
         print(f"Data dengan nama {nama} tidak ditemukan.")
 ```
 `tampilkan_data`
-```
-python
+```python
 
 
 def tampilkan_data(data):
@@ -176,8 +170,7 @@ def tampilkan_data(data):
 `Fungsi Utama untuk menjalankan program`
 
 Fungsi ini ialah untuk menjalankan kode 1,2,3,4,5 masing masing kode tersebut ada fungsi seperti tambah data,ubah data,hapus data,tampilkan data,dan keluar program.
-```
-python
+```python
 
 def main():
     """

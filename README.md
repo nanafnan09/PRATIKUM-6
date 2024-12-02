@@ -203,7 +203,8 @@ def main():
 
 ![Foto](https://github.com/nanafnan09/Foto/blob/194b9dd5216d6e7589d5707cc8b667c6785ec54f/Opsi%20Ubah%20Data.png)
 
-![Foto]()
+![Foto](https://github.com/nanafnan09/Foto/blob/194b9dd5216d6e7589d5707cc8b667c6785ec54f/Opsi%20Hapus%20Data.png)
+
 ![Foto]()
 ![Foto]()
 

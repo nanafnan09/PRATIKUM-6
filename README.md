@@ -198,4 +198,10 @@ def main():
 # FLOWCHART 
 ![Foto](https://github.com/nanafnan09/PRATIKUM-6/blob/b86fda54c1492d3635d57a90e0a73ffaefe07aff/Flowchart%20Pratikum%206.png)
 
- 
+# HASIL KODE PEMROGRAMAN
+![Foto](https://github.com/nanafnan09/Foto/blob/194b9dd5216d6e7589d5707cc8b667c6785ec54f/Opsi%20Tambah%20Data.png)
+![Foto]()
+![Foto]()
+![Foto]()
+![Foto]()
+
